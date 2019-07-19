@@ -1,6 +1,10 @@
+# Expenses App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and --typescript.
 
-This is a personal project to practice the basic and advanced subjects in React, as well as Redux.
+This is a personal project to practice the basic and advanced subjects in React, as well as Redux. I will also attempt to design a basic UI for it to practice my HMTL and CSS skills.
+
+I have decided to use create-react-app to simply concentrate on learning React without diving into creating my own setup. I will attempt this in another project, where I will create my own boilerplate.
 
 ## Available Scripts
 
